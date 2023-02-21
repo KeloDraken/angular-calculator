@@ -1,0 +1,29 @@
+section{
+  margin: 5rem 0 5rem 35rem;
+}
+h1{
+  flex-direction:column;
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  width: 10rem;
+  height: 4rem;
+  font-size: 3rem;
+  border: none;
+  background-color: #323232;
+  color: #fff;
+  margin: 3px;
+  border-radius: 5px;
+}
+textarea{
+  border: none;
+  resize: none;
+  background-color: #202020;
+}
+#eval {
+  width: 30.7rem;
+  background-color: #6da9d8;
+  color: #323232;
+}
