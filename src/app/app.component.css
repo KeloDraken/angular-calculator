@@ -1,8 +1,8 @@
-section{
+section {
   margin: 5rem 0 5rem 35rem;
 }
-h1{
-  flex-direction:column;
+h1 {
+  flex-direction: column;
   color: #fff;
   font-family: sans-serif;
   text-align: center;
@@ -17,13 +17,23 @@ button {
   margin: 3px;
   border-radius: 5px;
 }
-textarea{
+button:hover{
+  background-color: #2e2e2e;
+
+}
+textarea {
   border: none;
+  font-family: sans-serif;
   resize: none;
+  color: #fff;
+  font-size: 3em;
   background-color: #202020;
 }
 #eval {
   width: 30.7rem;
   background-color: #6da9d8;
   color: #323232;
+}
+.number {
+  background-color: #3c3c3c;
 }
